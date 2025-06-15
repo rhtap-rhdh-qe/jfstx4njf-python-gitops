@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: jfstx4njf-python-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/jfstx4njf-python-gitops
